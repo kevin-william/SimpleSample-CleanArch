@@ -1,0 +1,21 @@
+--------------------------------------------------------
+--  Arquivo criado - domingo-julho-17-2022   
+--------------------------------------------------------
+--------------------------------------------------------
+--  DDL for Table USUARIO
+--------------------------------------------------------
+
+  CREATE TABLE "SYS"."USUARIO" 
+   (	"Id" NUMBER(*,0), 
+	"Nome" VARCHAR2(128 CHAR), 
+	"Idade" NUMBER(*,0), 
+	"Email" VARCHAR2(64 CHAR)
+   ) 
+Insert into SYS.USUARIO ("Id","Nome","Idade","Email") values ('1','kevin','12','e@mail.com');
+Insert into SYS.USUARIO ("Id","Nome","Idade","Email") values ('2','gil','13','em@il.com');
+Insert into SYS.USUARIO ("Id","Nome","Idade","Email") values ('3','Cris','11','cris@mail.com');
+--------------------------------------------------------
+--  Constraints for Table USUARIO
+--------------------------------------------------------
+
+  ALTER TABLE "SYS"."USUARIO" MODIFY ("Id" NOT NULL ENABLE);
