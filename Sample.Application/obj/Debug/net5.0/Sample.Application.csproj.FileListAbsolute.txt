@@ -1,0 +1,17 @@
+C:\Users\Integer\source\repos\Sample\Sample.Application\bin\Debug\net5.0\Sample.Application.deps.json
+C:\Users\Integer\source\repos\Sample\Sample.Application\bin\Debug\net5.0\Sample.Application.dll
+C:\Users\Integer\source\repos\Sample\Sample.Application\bin\Debug\net5.0\Sample.Application.pdb
+C:\Users\Integer\source\repos\Sample\Sample.Application\bin\Debug\net5.0\Sample.Domain.dll
+C:\Users\Integer\source\repos\Sample\Sample.Application\bin\Debug\net5.0\Sample.Infra.Data.dll
+C:\Users\Integer\source\repos\Sample\Sample.Application\bin\Debug\net5.0\Sample.Domain.pdb
+C:\Users\Integer\source\repos\Sample\Sample.Application\bin\Debug\net5.0\Sample.Infra.Data.pdb
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.csproj.AssemblyReference.cache
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.AssemblyInfoInputs.cache
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.AssemblyInfo.cs
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.csproj.CopyComplete
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.dll
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\refint\Sample.Application.dll
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\Sample.Application.pdb
+C:\Users\Integer\source\repos\Sample\Sample.Application\obj\Debug\net5.0\ref\Sample.Application.dll

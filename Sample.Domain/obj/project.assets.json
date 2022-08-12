@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Domain\\Sample.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Domain\\Sample.Domain.csproj",
       "projectName": "Sample.Domain",
-      "projectPath": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Domain\\Sample.Domain.csproj",
+      "projectPath": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Domain\\Sample.Domain.csproj",
       "packagesPath": "C:\\Users\\Integer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Integer\\AppData\\Roaming\\NuGet\\NuGet.Config",

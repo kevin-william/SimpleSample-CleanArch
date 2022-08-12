@@ -3885,11 +3885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Testes.Unitario\\Sample.Testes.Unitario.csproj",
+      "projectUniqueName": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Testes.Unitario\\Sample.Testes.Unitario.csproj",
       "projectName": "Sample.Testes.Unitario",
-      "projectPath": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Testes.Unitario\\Sample.Testes.Unitario.csproj",
+      "projectPath": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Testes.Unitario\\Sample.Testes.Unitario.csproj",
       "packagesPath": "C:\\Users\\Integer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Testes.Unitario\\obj\\",
+      "outputPath": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Testes.Unitario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Integer\\AppData\\Roaming\\NuGet\\NuGet.Config",

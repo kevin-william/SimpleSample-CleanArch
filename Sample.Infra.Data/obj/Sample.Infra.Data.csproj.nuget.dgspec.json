@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Infra.Data\\Sample.Infra.Data.csproj": {}
+    "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Infra.Data\\Sample.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Infra.Data\\Sample.Infra.Data.csproj": {
+    "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Infra.Data\\Sample.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Infra.Data\\Sample.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Infra.Data\\Sample.Infra.Data.csproj",
         "projectName": "Sample.Infra.Data",
-        "projectPath": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Infra.Data\\Sample.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Infra.Data\\Sample.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Integer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Integer\\source\\repos\\Sample\\Sample.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\Integer\\Documents\\Workspace\\CSharp\\SimpleSample-CleanArch\\Sample.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Integer\\AppData\\Roaming\\NuGet\\NuGet.Config",

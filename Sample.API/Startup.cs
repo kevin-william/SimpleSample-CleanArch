@@ -42,7 +42,8 @@ namespace Sample.API
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Sample.API v1"));
+                app.UseSwaggerUI();
+                //app.UseSwaggerUI(c => c.SwaggerEndpoint("swagger.json", "Sample.API v1"));
             }
 
             app.UseHttpsRedirection();

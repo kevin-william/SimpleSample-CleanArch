@@ -49,12 +49,14 @@ namespace Sample.Application.Services.Implementations
         {
             var pessoa = Mapper.Map<PessoaEntity>(entity);
             UnitOfWork.PessoaRepository.Insert(pessoa);
+            UnitOfWork.Save();
         }
 
         public void Update(Pessoa entityToUpdate)
         {
             var pessoa = Mapper.Map<PessoaEntity>(entityToUpdate);
             UnitOfWork.PessoaRepository.Update(pessoa);
+            UnitOfWork.Save();
         }
 
         public void Dispose()
