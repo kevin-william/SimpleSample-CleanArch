@@ -17,3 +17,11 @@ C:\Users\Integer\source\repos\Sample\Sample.Infra.IoC\obj\Debug\net5.0\Sample.In
 C:\Users\Integer\source\repos\Sample\Sample.Infra.IoC\obj\Debug\net5.0\refint\Sample.Infra.IoC.dll
 C:\Users\Integer\source\repos\Sample\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.pdb
 C:\Users\Integer\source\repos\Sample\Sample.Infra.IoC\obj\Debug\net5.0\ref\Sample.Infra.IoC.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.AssemblyInfo.cs
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\refint\Sample.Infra.IoC.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.IoC\obj\Debug\net5.0\Sample.Infra.IoC.pdb

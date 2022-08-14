@@ -10,3 +10,15 @@ C:\Users\Integer\source\repos\Sample\Sample.Infra.Data\obj\Debug\net5.0\Sample.I
 C:\Users\Integer\source\repos\Sample\Sample.Infra.Data\obj\Debug\net5.0\refint\Sample.Infra.Data.dll
 C:\Users\Integer\source\repos\Sample\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.pdb
 C:\Users\Integer\source\repos\Sample\Sample.Infra.Data\obj\Debug\net5.0\ref\Sample.Infra.Data.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\bin\Debug\net5.0\Sample.Infra.Data.deps.json
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\bin\Debug\net5.0\Sample.Infra.Data.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\bin\Debug\net5.0\Sample.Infra.Data.pdb
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.AssemblyInfo.cs
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\refint\Sample.Infra.Data.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\Sample.Infra.Data.pdb
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Infra.Data\obj\Debug\net5.0\ref\Sample.Infra.Data.dll

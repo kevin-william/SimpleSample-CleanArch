@@ -10,3 +10,15 @@ C:\Users\Integer\source\repos\Sample\Sample.Domain\obj\Debug\net5.0\Sample.Domai
 C:\Users\Integer\source\repos\Sample\Sample.Domain\obj\Debug\net5.0\refint\Sample.Domain.dll
 C:\Users\Integer\source\repos\Sample\Sample.Domain\obj\Debug\net5.0\Sample.Domain.pdb
 C:\Users\Integer\source\repos\Sample\Sample.Domain\obj\Debug\net5.0\ref\Sample.Domain.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\bin\Debug\net5.0\Sample.Domain.deps.json
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\bin\Debug\net5.0\Sample.Domain.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\bin\Debug\net5.0\Sample.Domain.pdb
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\Sample.Domain.csproj.AssemblyReference.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\Sample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\Sample.Domain.AssemblyInfoInputs.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\Sample.Domain.AssemblyInfo.cs
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\Sample.Domain.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\refint\Sample.Domain.dll
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\Sample.Domain.pdb
+C:\Users\Integer\Documents\Workspace\CSharp\SimpleSample-CleanArch\Sample.Domain\obj\Debug\net5.0\ref\Sample.Domain.dll

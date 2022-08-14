@@ -9,15 +9,13 @@ namespace Sample.API.DataValidation
     {
         public PessoaValidator()
         {
-            RuleFor(x => x.Email)
-                .NotNull();
+            PessoaNomeValidator();
+            PessoaEmailValidator();
+            PessoaIdadeValidator();
+        }
 
-            RuleFor(x => x.Email)
-                .NotEmpty();
-
-            RuleFor(x => x.Email)
-                .EmailAddress();
-
+        private void PessoaNomeValidator()
+        {
             RuleFor(x => x.Nome)
                 .NotNull()
                 .WithMessage(EntitiesValidationConstants.PessoaNomeNullMessage);
@@ -38,6 +36,40 @@ namespace Sample.API.DataValidation
                 .Must(x => new Regex(EntitiesValidationConstants.PessoaNomePattern)
                 .IsMatch(x))
                 .WithMessage(EntitiesValidationConstants.PessoaNomePatternMessage);
+        }
+
+        private void PessoaIdadeValidator()
+        {
+            RuleFor(x => x.Idade)
+                .Must(x => x > EntitiesValidationConstants.PessoaIdadeMinimunLength)
+                .WithMessage(EntitiesValidationConstants.PessoaIdadeMinimumLenghtMessage);
+
+            RuleFor(x => x.Idade)
+                .Must(x => x <= EntitiesValidationConstants.PessoaIdadeMaximumLength)
+                .WithMessage(EntitiesValidationConstants.PessoaIdadeMaximumLenghtMessage);
+
+            RuleFor(x => x.Idade)
+                .NotNull()
+                .WithMessage(EntitiesValidationConstants.PessoaIdadeNullMessage);
+
+            RuleFor(x => x.Idade)
+                .NotEmpty()
+                .WithMessage(EntitiesValidationConstants.PessoaIdadeNullMessage);
+        }
+
+        private void PessoaEmailValidator()
+        {
+            RuleFor(x => x.Email)
+                .NotNull()
+                .WithMessage(EntitiesValidationConstants.PessoaEmailNullMessage);
+
+            RuleFor(x => x.Email)
+                .NotEmpty()
+                .WithMessage(EntitiesValidationConstants.PessoaEmailNullMessage);
+
+            RuleFor(x => x.Email)
+                .EmailAddress()
+                .WithMessage(EntitiesValidationConstants.PessoaEmailPatternMessage);
         }
     }
 }

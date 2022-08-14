@@ -14,7 +14,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Sample.Application\Sample.Application.csproj" />
     <ProjectReference Include="..\Sample.Infra.Data\Sample.Infra.Data.csproj" />
-    <ProjectReference Include="..\Sample.Infra.IoC\Sample.Infra.IoC.csproj" />
   </ItemGroup>
 
 </Project>
